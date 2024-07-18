@@ -23,7 +23,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'https://lahsigmund.github.io/wpu-login/';
+$config['base_url'] = 'https://lahsigmund.github.io/wpu-login/index.php';
 
 /*
 |--------------------------------------------------------------------------
@@ -35,7 +35,7 @@ $config['base_url'] = 'https://lahsigmund.github.io/wpu-login/';
 | variable so that it is blank.
 |
 */
-$config['index_page'] = '';
+$config['index_page'] = 'https://lahsigmund.github.io/wpu-login/index.php';
 
 /*
 |--------------------------------------------------------------------------
